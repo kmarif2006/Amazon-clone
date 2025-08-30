@@ -14,7 +14,7 @@ JavaScript: Interactivity and dynamic functionality.
 
 How to Use
 Clone the repository:
-(https://github.com/kmarif2006/Amazon-clone) 
+https://github.com/kmarif2006/Amazon-clone 
 
 Open the project folder and launch amazon.html in your preferred browser.
 
